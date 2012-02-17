@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="gwt-user">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../gwt-2.4.0/gwt-user.jar!/" />
+      <root url="jar://$USER_HOME$/mongo-java-driver-2.7.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../gwt-2.4.0/gwt-user.jar!/" />
+    </SOURCES>
+  </library>
+</component>

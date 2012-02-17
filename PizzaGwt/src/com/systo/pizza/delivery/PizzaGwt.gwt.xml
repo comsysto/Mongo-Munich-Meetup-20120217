@@ -1,0 +1,18 @@
+<!DOCTYPE module PUBLIC "-//Google Inc.//DTD Google Web Toolkit 2.0//EN"
+        "http://google-web-toolkit.googlecode.com/svn/releases/2.0/distro-source/core/src/gwt-module.dtd">
+<module rename-to="pizzadelivery">
+
+    <!-- Inherit the core Web Toolkit stuff.                  -->
+    <inherits name='com.google.gwt.user.User'/>
+
+    <!-- Specify the app entry point class.                   -->
+    <entry-point class='com.systo.pizza.delivery.client.PizzaGwt'/>
+
+
+    <!-- Specify the app servlets.                   -->
+    <servlet path='/rpc/user' class='com.systo.pizza.delivery.server.UserServiceImpl'/>
+
+    <source path="client"/>
+    <source path="shared"/>
+
+</module>
