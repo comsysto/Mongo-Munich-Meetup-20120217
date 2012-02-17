@@ -1,0 +1,24 @@
+Ablauf:
+
+18:00 - 18:30 Kurze Vorstellungsrunde & Pair Building
+18:30 - 21:00 Pair Programming + Bier & Snacks
+21:00 - 21:30 Pizza Time
+21:30 -       Kurze Vorstellung der Ergebnisse, Erfahrungsaustausch, Socializing
+
+
+Aufgabe für heute abend:
+
+Aufbau einer Online Pizzeria mit Katalog und Bestellseite auf Basis von http://www.sinans.de mit Spring Data & Mongo DB (freie Auswahl des UI Frameworks). 
+Alle die es schaffen an dem Abend eine Pizza mit ihrer Anwendung auszuwählen und zu bestellen, bekommen diese auch von uns geliefert ;).
+
+Fürs Styling sollte folgendes verwendet werden : http://twitter.github.com/bootstrap/
+
+Tasks wären: 
+
+1. Sinan's Katalog in MongoDB Aufbauen
+2. Katalogseite erstellen
+3. Bestellvorgang abbilden
+4. Bestellung in MongoDB speichern
+5. Optional: Pizzasuche nach verschiedenen Kriterien: Preis, Zutaten, Vegan\Vegetarisch 
+
+etc.
